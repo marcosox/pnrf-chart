@@ -12,6 +12,10 @@ La banda centrale della mappa ricalca (quasi) fedelmente il
 che è stato convertito tramite [questo script](https://github.com/marcosox/pnrf-convert-py).
 Alcune correzioni ed aggiunte sono state fatte a mano per aggirare le difficoltà presentate dal formato originale dei dati.
 
+### Demo
+La mappa, oltre ad essere liberamente scaricabile ed ospitabile su qualsiasi webserver statico,
+è disponibile presso https://marcosox.github.io/pnrf-chart/
+
 ### Stato di avanzamento
 La mappa include tutte le informazioni riportate nelle tabelle [A](https://www.mise.gov.it/images/stories/documenti/Tabella_A_0-27500kHz.pdf) e [B](https://www.mise.gov.it/images/stories/documenti/Tabella_B_2750_MHz-10000_Mhz.pdf) del piano.
 Le [note](https://www.mise.gov.it/images/stories/documenti/NOTE-pnrf.pdf) sono incluse solo parzialmente,
@@ -39,6 +43,10 @@ The middle band follows almost completely the
 [official plan](https://www.mise.gov.it/images/stories/documenti/Tabella_B_2750_MHz-10000_Mhz.pdf),
 which has been converted with [this script](https://github.com/marcosox/pnrf-convert-py).
 Some stuff has been manually corrected to overcome issues caused by the initial data format.
+
+### Demo
+This chart can be freely downloaded and hosted on any static webserver.
+A live version can be accessed online at https://marcosox.github.io/pnrf-chart/
 
 ### Project status
 The chart reports all the info in Table [A](https://www.mise.gov.it/images/stories/documenti/Tabella_A_0-27500kHz.pdf)
