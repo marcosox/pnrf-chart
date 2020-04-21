@@ -2347,7 +2347,8 @@ let pnrf_channels = [
 		"frequency": 156.775,
 		"bandwidth": 0.025,
 		"metadata": {
-			"description": "Ricezione messaggi AIS 27 (downlink AIS-Sat)"
+			"description": "Ricezione messaggi AIS 27 (downlink AIS-Sat)",
+			"normative": ["ITU-R M.1371"]
 		},
 		"style": {
 			"label": "downlink AIS-Sat",
@@ -2369,7 +2370,8 @@ let pnrf_channels = [
 		"frequency": 156.825,
 		"bandwidth": 0.025,
 		"metadata": {
-			"description": "Ricezione messaggi AIS 27 (downlink AIS-Sat)"
+			"description": "Ricezione messaggi AIS 27 (downlink AIS-Sat)",
+            "normative": ["ITU-R M.1371"]
 		},
 		"style": {
 			"label": "downlink AIS-Sat",
@@ -2804,6 +2806,7 @@ let pnrf_channels = [
 		"bandwidth": 0.025,
 		"metadata": {
 			"description": "AIS (ch. 87B)",
+            "normative": ["ITU-R M.1371"],
 			"mode": "NFM"
 		},
 		"style": {
@@ -2816,7 +2819,8 @@ let pnrf_channels = [
 		"bandwidth": 0.025,
 		"metadata": {
 			"description": "AIS (ch. 88B)",
-			"mode": "NFM"
+			"mode": "NFM",
+            "normative": ["ITU-R M.1371"]
 		},
 		"style": {
 			"bandColor": "red",

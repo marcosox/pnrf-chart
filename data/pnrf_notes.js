@@ -264,8 +264,17 @@ let pnrf_notes = [
 			"color": "#8b43ff",
 			"label": "Collegamenti telefonici"
 		}
-	},
-	{
+	}, {
+	    "frequency_min": 165.5125,
+	    "frequency_max": 167.2125,
+	    "metadata": {
+	        "description": "Applicazioni radiomobili ad uso privato numeriche (PMR)",
+	    },
+	    "style": {
+	        "color": "#cfff8e",
+	        "label": "PMR"
+	    }
+	}, {
 		"frequency_min": 167.2125,
 		"frequency_max": 169.4,
 		"metadata": {
@@ -356,8 +365,17 @@ let pnrf_notes = [
 			"color": "#8b43ff",
 			"label": "Collegamenti telefonici"
 		}
-	},
-	{
+	}, {
+      	"frequency_min": 170.1125,
+      	"frequency_max": 171.8125,
+      	"metadata": {
+      		"description": "Applicazioni radiomobili ad uso privato numeriche (PMR)",
+      	},
+      	"style": {
+      		"color": "#cfff8e",
+      		"label": "PMR"
+      	}
+    }, {
 		"frequency_min": 171.8125,
 		"frequency_max": 174,
 		"metadata": {
